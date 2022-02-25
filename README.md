@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akhilpawar31
 - 👀 I’m interested in building things
-- 🌱 I’m currently learning django,js ,css
+- 🌱 I’m currently learning python for data science,django,js,css
 - 📫 pawar.akhil31@gmail.com
 
 <!---
